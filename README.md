@@ -1,3 +1,5 @@
+## [Live Site](https://shopping-today.netlify.app/)
+
 ### 1. Setup Initial Design
 ### 2. Install react Redux : `npm i redux react-redux`
 ### 3. Wrote business logic inside reducer
