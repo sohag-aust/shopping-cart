@@ -1,4 +1,4 @@
-import { ADD_PRODUCT, REMOVE_PRODUCT } from "./shoppingType";
+import { ADD_PRODUCT, REMOVE_PRODUCT } from "../actionTypes/shoppingType";
 
 const initialState = {
     inventory: [
